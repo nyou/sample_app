@@ -6,9 +6,10 @@ gem 'rails', '3.2.1'
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.10.0'
-  gem 'mysql2', :group => :production
 end
 
+
+  gem 'mysql2', :group => :production
 
 
 # Bundle edge Rails instead:
