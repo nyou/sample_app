@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
+gem 'bootstrap-sass', '2.0.0'
 
 # listing 3.1
 group :development, :test do
